@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="activity_main_text_view_text">Название продукта</string>
+    <string name="activity_main_edit_text_hint">Название  продукта</string>
+    <string name="activity_main_button_text">Сохранить</string>
+    <string name="banner_service_text">Текст баннера</string>
+    <string name="banner_service_button_text">СТОП</string>
+</resources>
